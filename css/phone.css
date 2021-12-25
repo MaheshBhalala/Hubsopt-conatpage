@@ -1,0 +1,96 @@
+@media (max-width: 767px) and (min-width:300px){ 
+    
+    
+    .header{display: none;}
+    
+    .navbar-1{
+        position: fixed;
+        top: 0px;
+        background-color: white;}
+    
+      .img-jumbo{background: url(/img/3.webp)no-repeat center center/cover;
+      margin-top: 58px;
+      height: 250px;
+    
+    }
+  
+    
+    article{background-color:rgba(126, 214, 223,0.2) ;}
+    
+    .card{width: 20rem; margin-top: 10px}
+    
+    .btn{display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+    .container .row .col-md-12 h1{font-size: 20px;
+       margin: 10px;
+    }
+    
+    .container .row .col-md-12 h1 i{padding: 0px 10px;}
+    
+    section{background-color: rgba(126, 214, 223,0.2);}
+    
+       .container .row .col-md-7{
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          padding: 10px;
+         
+       }
+    
+       .container .row .col-md-5{
+           display: flex;
+           align-items: center;
+           justify-content: center;
+           padding:10px;
+         
+        }
+    
+       
+       .box-2{
+           display: flex;
+           flex-flow: wrap-reverse;
+           
+       }
+    
+       img{width: 250px;
+           height: 200px;
+    
+           border-radius: 5px;}
+
+           .item-1{text-align: center;}
+
+           .item-1 h3{font-size: 20px;}
+
+           .item-1 h6{font-size: 15px;}
+
+           .item-1 p{font-size: 10px;}
+
+           
+    
+           footer{background-color: rgb(8, 8, 8);
+           padding: 20px;
+           }
+           /* .col-md-3{border: none;} */
+    
+           .footer-1 h6{text-align: center;
+           margin: 0px 30px;
+        }
+    
+           .footer-1 ul{list-style: none;
+            text-align: center;
+           }
+    
+           .footer-1 ul li a{color: grey;
+               font-size: 12px;
+           line-height: 20px;
+           
+           text-decoration: none;}
+    
+           .footer-1 ul li a:hover{text-decoration: underline;
+           color: white;}
+
+           .border-1{border-right:none;}
+     }
